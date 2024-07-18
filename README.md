@@ -74,5 +74,3 @@ This project is licensed under the MIT License.
 ```
 
 ---
-
-This README provides a clear and organized overview of the notebook's content and instructions for users to set up and run the project. If you have any specific details or additional sections to include, feel free to let me know!
