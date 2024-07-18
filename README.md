@@ -3,7 +3,7 @@ The notebook demonstrates a comprehensive workflow for processing and analyzing 
 
 
 
-```markdown
+
 # NLP Miniproject
 
 This repository contains a Colab notebook for an NLP miniproject focused on sentiment analysis of Twitter data. The notebook demonstrates various steps in preprocessing text data, including cleaning, tokenization, and building an LSTM model using TensorFlow.
